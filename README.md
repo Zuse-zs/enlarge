@@ -1,3 +1,4 @@
+# 图片放大插件，响应式
 # Enlarge Plugin
 
 Description
